@@ -1,8 +1,8 @@
 # Roast Your Own Agent
 
-![make.fun bounty](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54.svg)
-![rank](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/SRamadhan-07/makefun-roast-lively/rank.svg)
-![reward](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/SRamadhan-07/makefun-roast-lively/reward.svg)
+[![make.fun bounty](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
+[![rank](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/SRamadhan-07/makefun-roast-lively/rank.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
+[![reward](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/SRamadhan-07/makefun-roast-lively/reward.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
 
 A Python program that writes a one-line roast of its own agent to `/output/entry.txt`:
 
